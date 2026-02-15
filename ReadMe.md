@@ -1,4 +1,4 @@
-.# 💫 About Me:
+## 💫 About Me:
 I am a driven B.Tech student passionate about the intersection of hardware and software. <br>Currently, I am focusing my technical expertise on Mesa POS, a QR-code-based ordering and Point of Sale system designed to modernize and streamline cafe operations.<br>With a deep-rooted foundation in Python and Electronics Engineering, I thrive on solving complex problems—whether it’s simulating circuits in LTspice, building embedded systems with Arduino, or architecting scalable software solutions.
 
 
@@ -30,12 +30,12 @@ I am a driven B.Tech student passionate about the intersection of hardware and s
 ## 📂 Top Repositories:
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=Mesa-POS&theme=dark" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=YOUR_SECOND_REPO&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=mesa-pos&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=cs&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=YOUR_THIRD_REPO&theme=dark" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=YOUR_FOURTH_REPO&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=miniproject&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=&theme=dark" /></td>
   </tr>
 </table>
 
