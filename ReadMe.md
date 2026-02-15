@@ -16,9 +16,9 @@ I am a driven B.Tech student passionate about the intersection of hardware and s
 ### ☁️ Deployment & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📅 Contribution Graph:
+## 📅 Contribution Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalbarange&theme=github-compact&area=true&hide_border=true&bg_color=0D1117&color=40c463" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalbarange&theme=github-compact&bg_color=0D1117&hide_border=true&color=40c463&line=40c463&point=ffffff" width="100%" />
 </p>
 
 # 📊 GitHub Stats:
@@ -28,19 +28,16 @@ I am a driven B.Tech student passionate about the intersection of hardware and s
 
 
 ## 📂 Top Repositories:
-<table border="0">
+<table border="0" align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=mesa-pos&theme=dark" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=cs&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=Mesa-POS&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=Cafe-0&theme=dark" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=miniproject&theme=dark" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=CREDIT-RISK-PREDICTER&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=bill&theme=dark" /></td>
   </tr>
 </table>
-
-<p align="center">
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ujjwalbarange&icon=0&color=0)](https://visitcount.itsvg.in)
 
