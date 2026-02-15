@@ -3,7 +3,7 @@ I am a driven **Electronics & Telecommunication Engineering** student. Currently
 
 My flagship project is **Mesa POS**, a QR-code-based ordering and Point of Sale system designed to modernize cafe operations. I have a strong foundation in **Python** and enjoy solving technical challenges ranging from LTspice simulations to building scalable software solutions with **FastAPI** and **Node.js**.
 
- I thrive on solving complex problems—whether it’s simulating circuits in **LTspice**, building embedded systems with **Arduino**, or architecting working model with **ESP** and **Raspberry Pi**scalable software solutions.
+ I thrive on solving complex problems—whether it’s simulating circuits in **LTspice**, building embedded systems with **Arduino**, or architecting working model with **ESP** and **Raspberry Pi**.
 
 
 ## 🌐 Socials:
