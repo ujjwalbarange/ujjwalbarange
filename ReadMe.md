@@ -18,7 +18,7 @@ I am a driven B.Tech student passionate about the intersection of hardware and s
 
 ## 📅 Contribution Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalbarange&theme=github-compact&bg_color=0D1117&hide_border=true&color=40c463&line=40c463&point=ffffff" width="100%" />
+  <img src="https://ghchart.rshah.org/40c463/ujjwalbarange" alt="Ujjwal Barange's Contribution Chart" width="100%" />
 </p>
 
 # 📊 GitHub Stats:
