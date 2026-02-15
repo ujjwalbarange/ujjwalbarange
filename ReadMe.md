@@ -1,4 +1,4 @@
-# 💫 About Me:
+.# 💫 About Me:
 I am a driven B.Tech student passionate about the intersection of hardware and software. <br>Currently, I am focusing my technical expertise on Mesa POS, a QR-code-based ordering and Point of Sale system designed to modernize and streamline cafe operations.<br>With a deep-rooted foundation in Python and Electronics Engineering, I thrive on solving complex problems—whether it’s simulating circuits in LTspice, building embedded systems with Arduino, or architecting scalable software solutions.
 
 
@@ -16,9 +16,12 @@ I am a driven B.Tech student passionate about the intersection of hardware and s
 ### ☁️ Deployment & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-activity-graph.vercel.app/graph?username=ujjwalbarange&theme=radical&bg_color=0D1117&hide_border=true&line=58a6ff&point=ffffff)
+## 📅 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalbarange&theme=github-compact&area=true&hide_border=true&bg_color=0D1117&color=40c463" width="100%" />
+</p>
 
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ujjwalbarange&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ujjwalbarange&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalbarange&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
