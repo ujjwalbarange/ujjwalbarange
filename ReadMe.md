@@ -1,5 +1,9 @@
 ## 💫 About Me:
-I am a driven B.Tech student passionate about the intersection of hardware and software. <br>Currently, I am focusing my technical expertise on Mesa POS, a QR-code-based ordering and Point of Sale system designed to modernize and streamline cafe operations.<br>With a deep-rooted foundation in Python and Electronics Engineering, I thrive on solving complex problems—whether it’s simulating circuits in LTspice, building embedded systems with Arduino, or architecting scalable software solutions.
+I am a driven **Electronics & Telecommunication Engineering** student. Currently in my **2nd year (4th semester)**, I focus on the synergy between hardware and software development.
+
+My flagship project is **Mesa POS**, a QR-code-based ordering and Point of Sale system designed to modernize cafe operations. I have a strong foundation in **Python** and enjoy solving technical challenges ranging from LTspice simulations to building scalable software solutions with **FastAPI** and **Node.js**.
+
+ I thrive on solving complex problems—whether it’s simulating circuits in **LTspice**, building embedded systems with **Arduino**, or architecting working model with **ESP** and **Raspberry Pi**scalable software solutions.
 
 
 ## 🌐 Socials:
@@ -39,5 +43,6 @@ I am a driven B.Tech student passionate about the intersection of hardware and s
   </tr>
 </table>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ujjwalbarange&icon=0&color=0)](https://visitcount.itsvg.in)
 
