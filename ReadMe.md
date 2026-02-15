@@ -3,22 +3,43 @@ I am a driven B.Tech student passionate about the intersection of hardware and s
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujjwall.pawar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-barange) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ujjwalbarange) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ujjwalp360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjwalp4011@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujjwall.pawar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-barange-047b15294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ujjwalbarange) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ujjwalp360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjwalp4011@gmail.com) 
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+## 💻 Tech Stack:
+
+### 🌐 Software & Web Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔌 Electronics & Hardware
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Circuit Design](https://img.shields.io/badge/LTspice-Simulations-blue?style=for-the-badge)
+
+### ☁️ Deployment & Tools
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 # 📊 GitHub Stats:
+![](https://github-readme-activity-graph.vercel.app/graph?username=ujjwalbarange&theme=radical&bg_color=0D1117&hide_border=true&line=58a6ff&point=ffffff)
+
 ![](https://github-readme-stats.vercel.app/api?username=ujjwalbarange&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ujjwalbarange&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalbarange&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ujjwalbarange&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## 📂 Top Repositories:
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=Mesa-POS&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=YOUR_SECOND_REPO&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=YOUR_THIRD_REPO&theme=dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwalbarange&repo=YOUR_FOURTH_REPO&theme=dark" /></td>
+  </tr>
+</table>
+
+<p align="center">
+[![](https://visitcount.itsvg.in/api?id=ujjwalbarange&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ujjwalbarange&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
